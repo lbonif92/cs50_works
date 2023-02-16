@@ -1,0 +1,20 @@
+PRINT une introduction
+Demander au joueur si c'est bien la personne concernée
+Print l'introduction de epreuve 1 (quizz)
+Générer 3 propositions A B C
+Demander au joueur une réponse
+Si réponse correct
+    Lancement épreuve 2
+    Regénérer l'épreuve 1
+Générer la question et les propositions de l'épreuve 2 (faire un calcul)
+Si réponse correct
+    Lancement épreuve 3
+    Regénérer l'épreuve 2
+Générer la question et propositions épreuve 3 (bloc)
+Si répone correct
+    Print un message de victoire
+    Regénérer l'épreuve 3
+Print le lien du cadeau
+demander si elle souhaite l'ouvrir
+Si Oui, ouvrir une page web avec le bon cadeau.
+
